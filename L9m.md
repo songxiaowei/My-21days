@@ -1,1 +1,3 @@
-## [day1](https://segmentfault.com/n/1330000004565892)
+L9m
+##Day1
+> * [#我的21天#<JavaScript高级程序设计＞-D1](https://segmentfault.com/n/1330000004565892)
